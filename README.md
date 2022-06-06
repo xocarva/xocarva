@@ -14,7 +14,7 @@
 - 🔭 I’m looking for my first job as web developer
 - 🌱 I’m currently improving my React and CSS skills
 - ⏭️ Next I want to learn TypeScript and improve my testing skills
-- 📫 Reach me: [web](https://xoancarneiro.com) | [twitter](https://twitter.com/xocarva) | [linkedin](https://linkedin.com/in/xoancarneiro)
+- 📫 Reach me: [twitter](https://twitter.com/xocarva) | [linkedin](https://linkedin.com/in/xoancarneiro)
 
 #### STACK
 
