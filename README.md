@@ -15,7 +15,7 @@
 - 🌱 I’m currently improving my React and CSS skills
 - ⏭️ Next I want to learn TypeScript and improve my testing skills
 - 🏙️ I live in Vigo (Spain)
-- ❤️ Traveling & sci-fi
+- ❤️ I love traveling & good sci-fi stories
 
 #### LANGUAGES & TOOLS
 
