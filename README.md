@@ -1,12 +1,12 @@
 
-<h3 align="center">👋 Hi there! I'm Xoán</h3>
+<h1 align="center">👋 Hi there! I'm Xoán</h1>
 <p align="center">
   <a href="https://xoancarneiro.com">Portfolio</a> •
   <a href="https://twitter.com/xocarva">Twitter</a> •
   <a href="https://linkedin.com/in/xoancarneiro">LinkedIn</a> 
 </p>
 
-##### BIO
+#### BIO
 <p>
 ✨ After a few years working in sales & trade-marketing for FMCG multinational companies, I reinvented myself learning what I realized it was my passion: coding!
  </p>
@@ -16,7 +16,7 @@
 - ⏭️ Next I want to learn TypeScript and improve my testing skills
 - 📫 Reach me: [web](https://xoancarneiro.com) | [twitter](https://twitter.com/xocarva) | [linkedin](https://linkedin.com/in/xoancarneiro)
 
-##### STACK
+#### STACK
 
 ⚒️ Technologies I'm learning and have used for my projects at least once
 
