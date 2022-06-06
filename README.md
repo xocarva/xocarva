@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Xoán</h3>
 <p align="center">
-  <a href="https://xoancarneiro.com">Website</a> •
+  <a href="https://xoancarneiro.com">Portfolio</a> •
   <a href="https://twitter.com/xocarva">Twitter</a> •
   <a href="https://linkedin.com/in/xoancarneiro">LinkedIn</a> 
 </p>
