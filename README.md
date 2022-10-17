@@ -11,9 +11,7 @@
 ✨ After a few years working in sales & trade-marketing for FMCG multinational companies, I reinvented myself learning what I realized it was my passion: coding!
  </p>
 
-- 🔭 I’m looking for my first job as a web developer
-- 🌱 I’m currently improving my React and CSS skills
-- ⏭️ Next I want to learn TypeScript and improve my testing skills
+- 🌱 I’m currently learning TypeScript
 - 🏙️ I live in Vigo (Spain)
 - ❤️ I love traveling & good sci-fi stories
 
