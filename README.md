@@ -8,7 +8,7 @@
 
 #### BIO
 <p>
-✨ After a few years working in sales & trade-marketing for FMCG multinational companies, I reinvented myself learning what I realized it was my passion: coding!
+✨ After several years working in sales & trade-marketing for FMCG multinational companies, I reinvented myself learning what I realized it was my passion: coding!
  </p>
 
 - 🌱 I’m currently improving my TypeScript and testing skills
