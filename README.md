@@ -11,7 +11,7 @@
 ✨ After a few years working in sales & trade-marketing for FMCG multinational companies, I reinvented myself learning what I realized it was my passion: coding!
  </p>
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently improving my TypeScript and testing skills
 - 🏙️ I live in Vigo (Spain)
 - ❤️ I love traveling & good sci-fi stories
 
@@ -19,7 +19,7 @@
 
 ⚒️ Technologies I'm learning and have used for my projects at least once
 
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> <img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> <img title="Javascript" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> <img title="Laravel" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"> <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> <img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> <img title="Laravel" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"> <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 
  #### REACH ME
  
