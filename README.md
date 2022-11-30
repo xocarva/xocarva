@@ -8,10 +8,9 @@
 
 #### BIO
 <p>
-✨ After several years working in sales & trade-marketing for FMCG multinational companies, I reinvented myself learning what I realized it was my passion: coding!
+✨ After several years working in sales & trade-marketing for FMCG multinational companies, now I'm working as a frontend developer and enjoying it every single day.
  </p>
 
-- 🌱 I’m currently improving my TypeScript and testing skills
 - 🏙️ I live in Vigo (Spain)
 - ❤️ I love traveling & good sci-fi stories
 
